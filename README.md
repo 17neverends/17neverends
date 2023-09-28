@@ -11,8 +11,8 @@
 
 ## Проекты
 
-- Построение графиков (Python)
-- Построение графиков (Matlab)
+[- Python](https://github.com/17neverends/matlab)
+[- Matlab](https://github.com/17neverends/python)
 
 ## Связь
 
