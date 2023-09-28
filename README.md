@@ -11,8 +11,8 @@
 
 ## Проекты
 
-[- Python](https://github.com/17neverends/matlab)
-[- Matlab](https://github.com/17neverends/python)
+[Python](https://github.com/17neverends/matlab)
+[Matlab](https://github.com/17neverends/python)
 
 ## Связь
 
