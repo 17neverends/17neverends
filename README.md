@@ -3,6 +3,7 @@
 ## Обо мне
 
 Меня зовут Егор
+[![codewars]([https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username](https://www.codewars.com/users/17neverends))   
 
 ## Мои навыки
 
