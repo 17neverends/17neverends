@@ -14,10 +14,7 @@
 [Python](https://github.com/17neverends/matlab)
 [Matlab](https://github.com/17neverends/python)
 
-## Связь
-
-- Свяжитесь со мной по почте: ionianrise@gmail.com
-
 ## Благодарность
 
 Благодарю за посещение моего профиля! Если у вас есть какие-либо вопросы или предложения, не стесняйтесь связаться со мной.
+- Свяжитесь со мной по почте: ionianrise@gmail.com
