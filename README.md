@@ -11,8 +11,12 @@
 
 ## Проекты
 
-[Python](https://github.com/17neverends/matlab)
-[Matlab](https://github.com/17neverends/python)
+[Графики Питон](https://github.com/17neverends/GraphApp-Python)
+[Графики Матлаб](https://github.com/17neverends/GraphApp-MATLAB)
+[Викибот](https://github.com/17neverends/wiki-bot-python)
+[Регистрация/авторизация](https://github.com/17neverends/user-auth-reg)
+[ЛК библиотека](https://github.com/17neverends/library_gui_for_user)
+[Прим-Краскал/остов](https://github.com/17neverends/prim_kruskal_build_ostov)
 
 ## Благодарность
 
