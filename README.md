@@ -3,7 +3,7 @@
 ## Обо мне
 
 [![codewars](https://www.codewars.com/users/17neverends/badges/large)](https://www.codewars.com/users/17neverends)     
-[![leetcode](https://badges.peiyuan.ch/leetcode/ionian17/ranking)](https://leetcode.com/ionian17/)
+[![leetcode](https://badges.peiyuan.ch/leetcode/ionian17/solved?difficulty=<value>)](https://leetcode.com/ionian17/)
 
 ## Мои навыки
 
