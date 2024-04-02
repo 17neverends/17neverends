@@ -9,9 +9,9 @@
 [![leetcode](https://badges.peiyuan.ch/leetcode/ionian17/solved?difficulty=hard)](https://leetcode.com/ionian17/)<br> 
 ## Мои навыки
 
-- **Языки программирования:** Python, Java, JS, Matlab, С++
-- **Опыт:** 6 месяцев
-- **if in if**
+- **Языки программирования:** Python, Java, JavaScript, C#
+- **Фреймворки:** FastAPI, FastUI
+- **Коммерческий опыт разработки:** 3 месяца
 
 ## Благодарность
 
