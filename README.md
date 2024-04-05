@@ -9,10 +9,12 @@
 [![leetcode](https://badges.peiyuan.ch/leetcode/ionian17/solved?difficulty=hard)](https://leetcode.com/ionian17/)<br> 
 ## Мои навыки
 
-- **Языки программирования:** Python, Java, JavaScript, C#
-- **БД**: PostgreSQL
-- **Фреймворки:** FastAPI, FastUI
-- **Библиотеки:** React
+- **Frontend** HTML, CSS (SCSS), React, Tailwind
+- **Backend**: FastAPI, FastUI, Pydantic, PyTest
+- **Database**: PostgreSQL, Redis, MySQL
+- **Langs**: Python, PHP, C#, Java, JavaScript
+- **Other**: Docker, Linux
+
 - **Коммерческий опыт разработки:** 3 месяца
 
 ## Благодарность
