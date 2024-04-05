@@ -13,7 +13,7 @@
 - **Backend**: FastAPI, FastUI, Pydantic, PyTest
 - **Database**: PostgreSQL, Redis, MySQL
 - **Langs**: Python, PHP, C#, Java, JavaScript
-- **Other**: Docker, Linux
+- **Other**: Docker, Linux, PhpMyAdmin, uvicorn
 
 - **Коммерческий опыт разработки:** 3 месяца
 
