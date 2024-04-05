@@ -10,10 +10,10 @@
 ## Мои навыки
 
 - **Frontend** HTML, CSS (SCSS), React, Tailwind, Grid, Flex
-- **Backend**: FastAPI, FastUI, Pydantic, PyTest
+- **Backend**: FastAPI, FastUI, Pydantic
 - **Database**: PostgreSQL, Redis, MySQL
 - **Langs**: Python, PHP, C#, Java, JavaScript
-- **Other**: Git, Docker, Linux, PhpMyAdmin, uvicorn, aiogram (2.x - 3.x)
+- **Other**: Git, Docker, Linux, PhpMyAdmin, uvicorn, aiogram (2.x - 3.x), Selenium, PyTest, acyncio, bs4
 
 - **Коммерческий опыт разработки:** 3 месяца
 
