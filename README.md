@@ -9,7 +9,7 @@
 [![leetcode](https://badges.peiyuan.ch/leetcode/ionian17/solved?difficulty=hard)](https://leetcode.com/ionian17/)<br> 
 ## Мои навыки
 
-- **Frontend** HTML, CSS (SCSS), React, Tailwind
+- **Frontend** HTML, CSS (SCSS), React, Tailwind, Grid, Flex
 - **Backend**: FastAPI, FastUI, Pydantic, PyTest
 - **Database**: PostgreSQL, Redis, MySQL
 - **Langs**: Python, PHP, C#, Java, JavaScript
