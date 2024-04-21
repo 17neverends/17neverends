@@ -9,11 +9,19 @@
 [![leetcode](https://badges.peiyuan.ch/leetcode/ionian17/solved?difficulty=hard)](https://leetcode.com/ionian17/)<br> 
 ## Мои навыки
 
-- **Frontend** HTML, CSS (SCSS), React, Tailwind, Grid, Flex
-- **Backend**: FastAPI, FastUI, Pydantic
-- **Database**: PostgreSQL, Redis, MySQL
-- **Langs**: Python, PHP, C#, Java, JavaScript
-- **Other**: Git, Docker, Linux, PhpMyAdmin, uvicorn, aiogram (2.x - 3.x), Selenium, PyTest, acyncio, bs4
+- **Frontend** HTML, CSS (SCSS), React, Tailwind, Grid, Flex, axios
+- **Backend**: FastAPI, FastUI
+- **Database**: PostgreSQL, Redis, MySQL, SQLite
+- **Other**: Git, Docker, Linux (Ubuntu)
+
+## Языки программирования
+
+- **Python**: Python (FastAPI), PHP, C# (WinForms), Java, JavaScript
+- **Python**: FastAPI, FastUI, PyQt5, uvicorn, aiogram (2.x - 3.x), Selenium, PyTest, acyncio, bs4, Pydantic, aioredis, psycopg2, asyncpg
+- **Java**: JavaFX, Swing, JDBC
+- **C#**: WinForms, Npsgql
+- **JavaScript**: Frontend
+- **Php**: PhpMyAdmin
 
 - **Коммерческий опыт разработки:** 3 месяца
 
