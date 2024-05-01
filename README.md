@@ -17,7 +17,7 @@
 ## Языки программирования
 
 - **Python**: Python (FastAPI), PHP, C# (WinForms), Java, JavaScript
-- **Python**: FastAPI, FastUI, PyQt5, uvicorn, aiogram (2.x - 3.x), Selenium, PyTest, acyncio, bs4, Pydantic, aioredis, psycopg2, asyncpg
+- **Python**: FastAPI, FastUI, PyQt5, uvicorn, aiogram (2.x - 3.x), Selenium, PyTest, acyncio, bs4, Pydantic, aioredis, psycopg2, asyncopg
 - **Java**: JavaFX, Swing, JDBC
 - **C#**: WinForms, Npsgql
 - **JavaScript**: Frontend
