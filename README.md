@@ -10,20 +10,20 @@
 ## Мои навыки
 
 - **Frontend** HTML, CSS (SCSS), React, Tailwind, Grid, Flex, axios
-- **Backend**: FastAPI, FastUI
+- **Backend**: FastAPI, FastUI, Pydantic
 - **Database**: PostgreSQL, Redis, MySQL, SQLite
 - **Other**: Git, Docker, Linux (Ubuntu)
 
 ## Языки программирования
 
-- **Python**: Python (FastAPI), PHP, C# (WinForms), Java, JavaScript
+- Python, PHP, C#, Java, JavaScript
 - **Python**: FastAPI, FastUI, PyQt5, uvicorn, aiogram (2.x - 3.x), Selenium, PyTest, acyncio, bs4, Pydantic, aioredis, psycopg2, asyncopg
 - **Java**: JavaFX, Swing, JDBC
 - **C#**: WinForms, Npsgql
-- **JavaScript**: Frontend
+- **JavaScript**: Frontend 
 - **Php**: PhpMyAdmin
 
-- **Коммерческий опыт разработки:** 3 месяца
+- **Коммерческий опыт разработки:** 4 месяца
 
 ## Благодарность
 
