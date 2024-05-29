@@ -11,7 +11,7 @@
 
 - **Frontend** HTML, CSS (SCSS), React, Tailwind, AntDesign, Grid, Flex, axios
 - **Backend**: FastAPI, FastUI, Pydantic
-- **Database**: PostgreSQL, Redis, MySQL, SQLite
+- **Database**: PostgreSQL, Redis, MySQL, SQLite, S3
 - **Other**: Git, Docker, Linux (Ubuntu)
 
 ## Языки программирования
