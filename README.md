@@ -10,7 +10,7 @@
 ## Мои навыки
 
 - **Frontend** HTML, CSS (SCSS), React, Tailwind, AntDesign, Grid, Flex, axios
-- **Backend**: FastAPI, FastUI, Pydantic
+- **Backend**: FastAPI, FastUI, Pydantic, SQLALchemy
 - **Database**: PostgreSQL, Redis, MySQL, SQLite, S3
 - **Other**: Git, Docker, Linux (Ubuntu)
 
