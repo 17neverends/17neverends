@@ -21,7 +21,7 @@ Python, PHP, C#, Java, JavaScript
 - **Java**: JavaFX, Swing, JDBC
 - **C#**: WinForms, Npsgql
 
-- **Коммерческий опыт разработки:** 4 месяца
+- **Коммерческий опыт разработки:** 6 месяцев
 
 ## Благодарность
 
