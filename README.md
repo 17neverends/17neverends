@@ -9,8 +9,8 @@
 [![leetcode](https://badges.peiyuan.ch/leetcode/ionian17/solved?difficulty=hard)](https://leetcode.com/ionian17/)<br> 
 ## Мои навыки
 
-- **Frontend** HTML, CSS (SCSS), React, Tailwind, AntDesign, Grid, Flex, axios
-- **Backend**: FastAPI, FastUI, Pydantic, SQLALchemy, jwt, bcrypt, Centry
+- **Frontend** HTML, CSS (SCSS), React, Tailwind, AntDesign, Grid, Flex, axios, rsuite
+- **Backend**: FastAPI, FastUI, Pydantic, SQLALchemy, jwt, bcrypt, Sentry, Celery 
 - **Database**: PostgreSQL, Redis, MySQL, SQLite, S3
 - **Other**: Git, Docker, Linux (Ubuntu)
 
