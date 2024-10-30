@@ -11,17 +11,17 @@
 
 - **Frontend** HTML, CSS (SCSS), React, Tailwind, AntDesign, Grid, Flex, axios, rsuite
 - **Backend**: FastAPI, FastUI, Pydantic, SQLALchemy, jwt, bcrypt, Sentry, Celery 
-- **Database**: PostgreSQL, Redis, MySQL, SQLite, S3
-- **Other**: Git, Docker, Linux (Ubuntu)
+- **Database**: PostgreSQL, Redis, MySQL, SQLite, S3, MongoDB
+- **Other**: Git, Docker, Linux (Ubuntu 22.04)
 
 ## Языки программирования
 
 Python, PHP, C#, Java, JavaScript
-- **Python**: FastAPI, FastUI, PyQt5, uvicorn, aiogram (2.x - 3.x), Selenium, PyTest, acyncio, bs4, Pydantic, aioredis, psycopg2, asyncopg
+- **Python**: FastAPI, FastUI, PyQt5, uvicorn, aiogram (2.x - 3.x), Selenium, PyTest, acyncio, bs4, Pydantic, redis.asyncio, psycopg2, asyncopg
 - **Java**: JavaFX, Swing, JDBC
 - **C#**: WinForms, Npsgql
 
-- **Коммерческий опыт разработки:** 6 месяцев
+- **Коммерческий опыт разработки:** 9 месяцев
 
 ## Благодарность
 
