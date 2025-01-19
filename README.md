@@ -17,11 +17,11 @@
 ## Языки программирования
 
 Python, PHP, C#, Java, JavaScript
-- **Python**: FastAPI, FastUI, PyQt5, uvicorn, aiogram (2.x - 3.x), Selenium, PyTest, acyncio, bs4, Pydantic, redis.asyncio, psycopg2, asyncopg
+- **Python**: FastAPI, FastUI, PyQt5, uvicorn, aiogram (2.x - 3.x), Selenium, PyTest, asyncio, bs4, Pydantic, redis.asyncio, psycopg2, asyncpg
 - **Java**: JavaFX, Swing, JDBC
 - **C#**: WinForms, Npsgql
 
-- **Коммерческий опыт разработки:** 9 месяцев
+- **Коммерческий опыт разработки:** 1 год
 
 ## Благодарность
 
