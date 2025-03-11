@@ -7,4 +7,5 @@
 [![leetcode](https://badges.peiyuan.ch/leetcode/ionian17/solved?difficulty=hard)](https://leetcode.com/ionian17/)
 
 Python Backend Developer
-Styding Golang and Computer Science
+
+Now styding Golang and Computer Science
