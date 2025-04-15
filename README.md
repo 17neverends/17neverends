@@ -8,4 +8,4 @@
 
 Python Backend Developer
 
-Now styding Golang and Computer Science
+Now studying Golang and Computer Science
