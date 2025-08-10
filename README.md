@@ -6,6 +6,6 @@
 [![leetcode](https://badges.peiyuan.ch/leetcode/ionian17/solved?difficulty=medium)](https://leetcode.com/ionian17/)
 [![leetcode](https://badges.peiyuan.ch/leetcode/ionian17/solved?difficulty=hard)](https://leetcode.com/ionian17/)
 
-Python Backend Developer
+Golang Backend Developer
 
 Now studying Golang and Computer Science
